@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Timothy Mosby  
 
-<!--
-**timmytimmytimmytime/timmytimmytimmytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineer chasing the space between the digital and the real.**  
 
-Here are some ideas to get you started:
+I’ve spent over a decade building mobile applications and websites that reach millions of users, most recently as a senior engineer at Getty Images. My current explorations focus on AR/MR/VR and computer vision, with prototypes like **AirType**, **CountAR**, and **FaceTrackAR**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially drawn to challenges at the intersection of physical and digital — whether in spatial computing, satellites, or other frontier technologies that reshape how people interact with the world.  
+
+---
+
+### 🔗 Find me around the web
+- 🌐 [Portfolio](https://timmytimmytimmytime.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/timothymosby)  
+
+---
+
+### ⚡ Skills & Tools
+React Native · Swift · Kotlin · Unity · XR Hands · OpenXR · OpenCV · JavaScript · C++ · C#  
