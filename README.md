@@ -1,4 +1,4 @@
-# Hi, I’m Timothy Mosby  
+# Timothy Mosby  
 
 **Software engineer chasing the space between the digital and the real.**  
 
@@ -8,7 +8,7 @@ My current explorations focus on AR/VR and computer vision, with prototypes like
 
 ---
 
-### ⚡ Skills & Tools  
+### ⚡ Skills & 🛠 Tools  
 
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
