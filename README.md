@@ -6,6 +6,9 @@ I’ve spent over a decade building mobile applications and websites that reach 
 
 My current explorations focus on AR/VR and computer vision, with prototypes like  [AirType](https://github.com/timmytimmytimmytime/AirType), [CountAR](), and [FaceTrackAR](https://github.com/timmytimmytimmytime/FaceMoCap). I’m especially drawn to challenges at the intersection of physical and digital — whether in spatial computing, satellites, or other frontier technologies that reshape how people interact with the world.  
 
+## 🔗 Checkout my portfolio: [**timmytimmytimmytime.github.io**](https://timmytimmytimmytime.github.io)
+
+
 ---
 
 ### ⚡ Skills & 🛠 Tools  
