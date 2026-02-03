@@ -23,21 +23,34 @@ I've spent over a decade building mobile applications and websites that reach mi
 
 ## 🚀 Selected Projects
 
-### 🌤️ My Weather [→ View Project](https://github.com/timmytimmytimmytime/iOS-Weather)
+### 🌤️ My Weather
 > A SwiftUI weather app showcasing modern iOS development patterns with real-time data and a polished native interface.
+>
+> [→ Source](https://github.com/timmytimmytimmytime/iOS-Weather)
 <br/>
 
-### 📱 Flutter Crossplatform Demo [→ View live code](https://timmytimmytimmytime.github.io/flutter_crossplatform_demo/)
+### 📱 Flutter Crossplatform Demo 
 > A production-ready Flutter/Dart application demonstrating seamless deployment across iOS, Android, and web platforms.
+> 
+> [→ Source](https://github.com/timmytimmytimmytime/flutter_crossplatform_demo)
+> <br/>
+> [→ Demo](https://timmytimmytimmytime.github.io/flutter_crossplatform_demo/)
+
 <br/>
 
-### 📸 Contributor by Getty Images [→ View Products](https://timmytimmytimmytime.github.io/#products)
+### 📸 Contributor by Getty Images 
 > Built core features for a React Native app enabling professional photographers to upload content, access creative briefs, and track earnings. Contributed to the app over 6 years through major platform transitions as it reached 1M+ downloads with 4.7+ ratings, serving 200K+ contributors as Getty's central mobile workflow tool.
+>
+> [→ View in portfolio](https://timmytimmytimmytime.github.io/#products)
 <br/>
 
-### ✨ Portfolio Site [→ View live site](https://timmytimmytimmytime.github.io)
+### ✨ Portfolio Site 
 > React application featuring component-based architecture, responsive design, and continuous deployment through GitHub Pages.
+>
+> [→ Source](https://github.com/timmytimmytimmytime/timmytimmytimmytime.github.io)
+> <br/>
+> [→ Live Portfolio](https://timmytimmytimmytime.github.io)
 <br/>
 
-<!-- ### 🥽 AR/CV Prototypes [→ View Prototypes](https://timmytimmytimmytime.github.io/#prototypes)
+<!-- ### 🥽 AR/CV Prototypes [→ Prototypes](https://timmytimmytimmytime.github.io/#prototypes)
 > Experimental projects exploring computer vision and spatial computing, including hand tracking keyboards and real-time gesture recognition. -->
