@@ -35,5 +35,9 @@ I've spent over a decade building mobile applications and websites that reach mi
 > Built core features for a React Native app enabling professional photographers to upload content, access creative briefs, and track earnings. Contributed to the app over 6 years through major platform transitions as it reached 1M+ downloads with 4.7+ ratings, serving 200K+ contributors as Getty's central mobile workflow tool.
 <br/>
 
-### 🥽 AR/CV Prototypes [→ View Prototypes](https://timmytimmytimmytime.github.io/#prototypes)
-> Experimental projects exploring computer vision and spatial computing, including hand tracking keyboards and real-time gesture recognition.
+### ✨ Portfolio Site [→ View live site](https://timmytimmytimmytime.github.io)
+> React application featuring component-based architecture, responsive design, and continuous deployment through GitHub Pages.
+<br/>
+
+<!-- ### 🥽 AR/CV Prototypes [→ View Prototypes](https://timmytimmytimmytime.github.io/#prototypes)
+> Experimental projects exploring computer vision and spatial computing, including hand tracking keyboards and real-time gesture recognition. -->
