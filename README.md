@@ -23,22 +23,17 @@ I've spent over a decade building mobile applications and websites that reach mi
 
 ## 🚀 Selected Projects
 
-### 🌤️ My Weather
-A SwiftUI weather app showcasing modern iOS development patterns with real-time data and a polished native interface.
+### 🌤️ My Weather [→ View Project](https://github.com/timmytimmytimmytime/iOS-Weather)
+> A SwiftUI weather app showcasing modern iOS development patterns with real-time data and a polished native interface.
+<br/>
 
-[View Project →](https://github.com/timmytimmytimmytime/iOS-Weather)
+### 📱 Flutter Crossplatform Demo [→ View live code](https://timmytimmytimmytime.github.io/flutter_crossplatform_demo/)
+> A production-ready Flutter/Dart application demonstrating seamless deployment across iOS, Android, and web platforms.
+<br/>
 
-### 📱 Flutter Crossplatform Demo
-A production-ready Flutter/Dart application demonstrating seamless deployment across iOS, Android, and web platforms.
+### 📸 Contributor by Getty Images [→ View Products](https://timmytimmytimmytime.github.io/#products)
+> Built core features for a React Native app enabling professional photographers to upload content, access creative briefs, and track earnings. Contributed to the app over 6 years through major platform transitions as it reached 1M+ downloads with 4.7+ ratings, serving 200K+ contributors as Getty's central mobile workflow tool.
+<br/>
 
-[View live code →](https://timmytimmytimmytime.github.io/flutter_crossplatform_demo/)
-
-### 📸 Contributor by Getty Images
-Built core features for a React Native app enabling professional photographers to upload content, access creative briefs, and track earnings. Contributed to the app over 6 years through major platform transitions as it reached 1M+ downloads with 4.7+ ratings, serving 200K+ contributors as Getty's central mobile workflow tool.
-
-[View Products →](https://timmytimmytimmytime.github.io/#products)
-
-### 🥽 AR/CV Prototypes
-Experimental projects exploring computer vision and spatial computing, including hand tracking keyboards and real-time gesture recognition.
-
-[View Prototypes →](https://timmytimmytimmytime.github.io/#prototypes)
+### 🥽 AR/CV Prototypes [→ View Prototypes](https://timmytimmytimmytime.github.io/#prototypes)
+> Experimental projects exploring computer vision and spatial computing, including hand tracking keyboards and real-time gesture recognition.
